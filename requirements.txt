@@ -1,0 +1,6 @@
+Django==2.0.10
+<<<<<<< HEAD
+djangorestframework==3.9.1
+=======
+djangorestframework==3.7.7
+>>>>>>> d01cb14e0f000a85000144e00d2392f47db58e85
